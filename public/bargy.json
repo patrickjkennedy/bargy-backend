@@ -1,0 +1,59 @@
+[
+  {
+     "language":[
+        {
+           "name":"Yola",
+           "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Yola_hut_-Tagoat_Co._Wexford.JPG/1024px-Yola_hut_-Tagoat_Co._Wexford.JPG",
+           "origin":"Ireland",
+           "type":"Dialect",
+           "status":"extinct"
+        }
+     ],
+     "glossary":{
+        "yola":{
+           "phrases":[
+              {
+                 "phrase":"Aagar",
+                 "en-translation":"Eager",
+                 "audio":"http://audioclip.com/aagar.mp3"
+              },
+              {
+                 "phrase":"Aager",
+                 "en-translation":"Acre of land",
+                 "audio":"http://audioclip.com/aager.mp3"
+              },
+              {
+                 "phrase":"Aake",
+                 "en-translation":"Ache",
+                 "audio":"http://audioclip.com/aake.mp3"
+              },
+              {
+                 "phrase":"Aalhouse",
+                 "en-translation":"Alehouse",
+                 "audio":"http://audioclip.com/aalhouse.mp3"
+              },
+              {
+                 "phrase":"Aamzil, Amezill, Aamezill",
+                 "en-translation":"Themselves",
+                 "audio":"http://audioclip.com/aamzil.mp3"
+              },
+              {
+                 "phrase":"Aany",
+                 "en-translation":"Aany",
+                 "audio":"http://audioclip.com/aager.mp3"
+              },
+              {
+                 "phrase":"Aar",
+                 "en-translation":"There, their",
+                 "audio":"http://audioclip.com/aar.mp3"
+              },
+              {
+                 "phrase":"Abeit, Albeit",
+                 "en-translation":"Unless, except",
+                 "audio":"http://audioclip.com/abeit.mp3"
+              }
+           ]
+        }
+     }
+  }
+]
