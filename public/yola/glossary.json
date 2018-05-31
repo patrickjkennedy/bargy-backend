@@ -21,7 +21,7 @@
     },
     {
        "phrase":"Aany",
-       "translated_phrase":"Aany"
+       "translated_phrase":"Any"
     },
     {
        "phrase":"Aar",
@@ -30,5 +30,185 @@
     {
        "phrase":"Abeit, Albeit",
        "translated_phrase":"Unless, except"
+    },
+    {
+       "phrase":"Aboo",
+       "translated_phrase":"Above"
+    },
+    {
+        "phrase":"Abut, Abouten",
+        "translated_phrase":"About"
+    },
+    {
+        "phrase":"Adee!",
+        "translated_phrase":"Ha!"
+    },
+    {
+        "phrase":"Adh",
+        "translated_phrase":"At"
+    },
+    {
+        "phrase":"Af, Av",
+        "translated_phrase":"If, of"
+    },
+    {
+        "phrase":"Aferdth",
+        "translated_phrase":"Afraid"
+    },
+    {
+        "phrase":"Agone",
+        "translated_phrase":"Ago"
+    },
+    {
+        "phrase":"Agyne",
+        "translated_phrase":"Again"
+    },
+    {
+        "phrase":"Agyther",
+        "translated_phrase":"Together"
+    },
+    {
+        "phrase":"Aloghe",
+        "translated_phrase":"Below"
+    },
+    {
+        "phrase":"Almostly ee-go",
+        "translated_phrase":"Mostly gone"
+    },
+    {
+        "phrase":"Alomes",
+        "translated_phrase":"Alms"
+    },
+    {
+        "phrase":"Amach, Ammache",
+        "translated_phrase":"A dwarf"
+    },
+    {
+        "phrase":"Amain",
+        "translated_phrase":"Amen"
+    },
+    {
+        "phrase":"Amang",
+        "translated_phrase":"Among"
+    },
+    {
+        "phrase":"Ameal",
+        "translated_phrase":"Ashes"
+    },
+    {
+        "phrase":"Ameve",
+        "translated_phrase":"To move"
+    },
+    {
+        "phrase":"Amhyne",
+        "translated_phrase":"Mighty"
+    },
+    {
+        "phrase":"Amize, Amaze",
+        "translated_phrase":"Wonder, amazement"
+    },
+    {
+        "phrase":"Angerth",
+        "translated_phrase":"Angry"
+    },
+    {
+        "phrase":"Angish",
+        "translated_phrase":"Poverty"
+    },
+    {
+        "phrase":"Anoor",
+        "translated_phrase":"Another"
+    },
+    {
+        "phrase":"Apan, Apa",
+        "translated_phrase":"Upon"
+    },
+    {
+        "phrase":"Amhyne",
+        "translated_phrase":"Mighty"
+    },
+    {
+        "phrase":"Arich",
+        "translated_phrase":"The morning"
+    },
+    {
+        "phrase":"Arkagh",
+        "translated_phrase":"Eager"
+    },
+    {
+        "phrase":"Armeen",
+        "translated_phrase":"The side-lace of a car"
+    },
+    {
+        "phrase":"Arnaauneen",
+        "translated_phrase":"Working at night"
+    },
+    {
+        "phrase":"Arum",
+        "translated_phrase":"Within"
+    },
+    {
+        "phrase":"Ashen",
+        "translated_phrase":"Ashes"
+    },
+    {
+        "phrase":"Aslepe",
+        "translated_phrase":"Asleep"
+    },
+    {
+        "phrase":"Astarte",
+        "translated_phrase":"Run away"
+    },
+    {
+        "phrase":"At",
+        "translated_phrase":"That, which"
+    },
+    {
+        "phrase":"At, ayth",
+        "translated_phrase":"Eat"
+    },
+    {
+        "phrase":"Atheen",
+        "translated_phrase":"Eating"
+    },
+    {
+        "phrase":"Attercop",
+        "translated_phrase":"A spider"
+    },
+    {
+        "phrase":"Avar",
+        "translated_phrase":"Before"
+    },
+    {
+        "phrase":"Aveel",
+        "translated_phrase":"Abroad, without"
+    },
+    {
+        "phrase":"Aught",
+        "translated_phrase":"Any, anything"
+    },
+    {
+        "phrase":"Aul",
+        "translated_phrase":"All"
+    },
+    {
+        "phrase":"Aulaveer",
+        "translated_phrase":"Altogether"
+    },
+    {
+        "phrase":"Awye",
+        "translated_phrase":"Away"
+    },
+    {
+        "phrase":"Ayenst",
+        "translated_phrase":"Against"
+    },
+    {
+        "phrase":"Ayght",
+        "translated_phrase":"Eight"
+    },
+    {
+        "phrase":"Ayghteen",
+        "translated_phrase":"Eighteen"
     }
 ]
