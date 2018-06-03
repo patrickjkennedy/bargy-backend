@@ -210,5 +210,33 @@
     {
         "phrase":"Ayghteen",
         "translated_phrase":"Eighteen"
+    },
+    {
+        "phrase":"Ba",
+        "translated_phrase":"Be, been"
+    },
+    {
+        "phrase":"Bakooze",
+        "translated_phrase":"An oven"
+    },
+    {
+        "phrase":"Bakoozee",
+        "translated_phrase":"To bake bread in an oven"
+    },
+    {
+        "phrase":"Baalee",
+        "translated_phrase":"A clever man"
+    },
+    {
+        "phrase":"Baaree",
+        "translated_phrase":"The goal in a game of hurling"
+    },
+    {
+        "phrase":"Baarees",
+        "translated_phrase":"Small sticks [bars] placed on a kiln for drying oats"
+    },
+    {
+        "phrase":"Baarich, Barish",
+        "translated_phrase":"Barley"
     }
 ]
