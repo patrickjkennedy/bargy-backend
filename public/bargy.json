@@ -1,5 +1,6 @@
-{
-    "yola": {
+{"yola": 
+    {
+    "glossary": {
         "0" : {"phrase":"Aagar", "translated_phrase":"Eager"},
         "1" : {"phrase":"Aager", "translated_phrase":"Acre of land"},
         "2" : {"phrase":"Aake", "translated_phrase":"Ache"},
@@ -60,5 +61,8 @@
         "57" : {"phrase":"Baaree", "translated_phrase":"The goal in a game of hurling"},
         "58" : {"phrase":"Baarees", "translated_phrase":"Small sticks [bars] placed on a kiln for drying oats"},
         "59" : {"phrase":"Baarich, Barish", "translated_phrase":"Barley"}
+    },
+    "history": {},
+    "culture": {}
     }
 }
