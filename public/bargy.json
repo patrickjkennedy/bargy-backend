@@ -1283,22 +1283,16 @@
         "1283": {"phrase":"Zweatheen", "translated_phrase":"Sweating"}
         },
         "history": {
-            "0": {
-                "summary": "The Forth and Bargy dialect, also known as Yola, is an extinct variety of English once spoken in the baronies of Forth and Bargy in County Wexford, Ireland. It is thought to have evolved from Middle English, which was brought to Ireland during the Norman invasion, beginning in 1169. As such, it was similar to the Fingallian dialect of the Fingal area. Both became extinct in the 19th century, when they were replaced by modern Hiberno-English. The name \"Yola\" means \"old\" in the dialect.",
-                "detail": "The dialect was spoken in County Wexford, particularly in the baronies of Forth and Bargy. This was the first area English-speakers came to in the Norman invasion of Ireland, supporting the theory that the dialect evolved from the Middle English introduced in that period. As such it is thought to have been similar to Fingallian, which was spoken in the Fingal region north of Dublin. Middle English, the mother tongue of the \"Old English\" community, was widespread throughout southeastern Ireland until the 14th century; as the Old English were increasingly assimilated into Irish culture, their original language was gradually displaced through Gaelicisation. After this point, the Forth and Bargy dialect and Fingallian were the only attested relicts of this original form of English.\n\nModern English was widely introduced by British colonists during and after the 17th century, forming the basis for the modern Hiberno-English of Ireland. The new varieties were notably distinct from the surviving relict dialects. As English continued to spread, both the Forth and Bargy dialect and the Fingal dialect died out in the 19th century.\n\nThe dialect of Forth and Bargy was the only dialect in Ireland included in Alexander John Ellis's work On Early English Pronunciation Volume V, which was the earliest survey of dialects of English. The phonetics of the dialect were taken from a local reverend.",
-                "pictures": {
-                        "0": {
-                        "link": "https://upload.wikimedia.org/wikipedia/commons/8/80/Thatched_Cottage_near_Bannow_Bay_-_geograph.org.uk_-_14558.jpg",
-                        "attribution": "Pam Brophy",
-                        "description": "Traditional thatched cottage near Bannow Bay in Bargy"
-                        },
-                        "1": {
-                        "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Yola_farm_-Tagoat_Co._Wexford.JPG/1920px-Yola_farm_-Tagoat_Co._Wexford.JPG",
-                        "attribution": "Christophe Krief",
-                        "description": "Yola farm refurbished in Tagoat, Co. Wexford, Ireland"
-                        }
-                }
-            }
+        "0": {
+            "summary": "The Forth and Bargy dialect, also known as Yola, is an extinct variety of English once spoken in the baronies of Forth and Bargy in County Wexford, Ireland. It is thought to have evolved from Middle English, which was brought to Ireland during the Norman invasion, beginning in 1169. As such, it was similar to the Fingallian dialect of the Fingal area. Both became extinct in the 19th century, when they were replaced by modern Hiberno-English. The name \"Yola\" means \"old\" in the dialect.",
+            "detail": "The dialect was spoken in County Wexford, particularly in the baronies of Forth and Bargy. This was the first area English-speakers came to in the Norman invasion of Ireland, supporting the theory that the dialect evolved from the Middle English introduced in that period. As such it is thought to have been similar to Fingallian, which was spoken in the Fingal region north of Dublin. Middle English, the mother tongue of the \"Old English\" community, was widespread throughout southeastern Ireland until the 14th century; as the Old English were increasingly assimilated into Irish culture, their original language was gradually displaced through Gaelicisation. After this point, the Forth and Bargy dialect and Fingallian were the only attested relicts of this original form of English.\n\nModern English was widely introduced by British colonists during and after the 17th century, forming the basis for the modern Hiberno-English of Ireland. The new varieties were notably distinct from the surviving relict dialects. As English continued to spread, both the Forth and Bargy dialect and the Fingal dialect died out in the 19th century.\n\nThe dialect of Forth and Bargy was the only dialect in Ireland included in Alexander John Ellis's work On Early English Pronunciation Volume V, which was the earliest survey of dialects of English. The phonetics of the dialect were taken from a local reverend.",
+            "picture_one_link": "https://upload.wikimedia.org/wikipedia/commons/8/80/Thatched_Cottage_near_Bannow_Bay_-_geograph.org.uk_-_14558.jpg",
+            "picture_one_attribution": "Pam Brophy",
+            "picture_one_description": "Traditional thatched cottage near Bannow Bay in Bargy",
+            "picture_two_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Yola_farm_-Tagoat_Co._Wexford.JPG/1920px-Yola_farm_-Tagoat_Co._Wexford.JPG",
+            "picture_two_attribution": "Christophe Krief",
+            "picture_two_description": "Yola farm refurbished in Tagoat, Co. Wexford, Ireland"
+        }
         },
         "culture": {
         "0": {
